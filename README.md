@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, I'm Tazhibaev Belek
-**A passionate Cloud Engineer || DevOps Engineer || ASD Admin from Kyrgyzstan**
+**A passionate Python (mid) Dev || DevOps Engineer || Web Dev ||ASD Admin from Kyrgyzstan**
 
 Email Me 👉 ✉️ **tazhibaev0909@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
