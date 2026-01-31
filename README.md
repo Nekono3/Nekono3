@@ -2,13 +2,13 @@
 # 💫 Hi 👋, I'm Tazhibaev Belek
 **A passionate Cloud Engineer || DevOps Engineer || ASD Admin from Kyrgyzstan**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **tazhibaev0909@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** ASD-(Aalam School Developers) Project
 - 🌱 **I’m currently learning:** Frameworks (React/Next.js)
 - 🤔 **I’m looking for help with:** Membership to our Coorp ASD https://t.me/ASDRazzakov
 - 💬 **Ask me about:** Tech support
-- 📫 **How to reach me:** tazhibaev0909@gmail.com
+- 📫 **How to reach me:** @Chromatic_s **tg**
 - 😄 **Pronouns:** Belek Sir
 
 ## 🌐 Socials:
