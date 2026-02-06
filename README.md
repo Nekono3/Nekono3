@@ -1,12 +1,12 @@
 
 # 💫 Hi 👋, I'm Tazhibaev Belek
-**A passionate Python (mid) Dev || DevOps Engineer || Web Dev ||ASD Admin from Kyrgyzstan**
+**A passionate Python (mid) Dev || DevOps Engineer || Web Dev || ASD Admin from Kyrgyzstan**
 
 Email Me 👉 ✉️ **tazhibaev0909@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** ASD-(Aalam School Developers) Project
 - 🌱 **I’m currently learning:** Frameworks (React/Next.js)
-- 🤔 **I’m looking for help with:** Membership to our Coorp ASD https://t.me/ASDRazzakov
+- 🤔 **I’m looking for help with:** Membership to our Coop. ASD
 - 💬 **Ask me about:** Tech support
 - 📫 **How to reach me:** @Chromatic_s **tg**
 - 😄 **Pronouns:** Belek Sir
