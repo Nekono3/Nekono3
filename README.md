@@ -229,24 +229,8 @@ I'm a **17-year-old** software developer, AI engineer, and tech entrepreneur fro
 
 </div>
 
----
 
-### 🏅 Achievements
 
-<div align="center">
-
-| Badge | Achievement | Description |
-| :---: | :--- | :--- |
-| 🤠 | **Pair Extraordinaire** | Co-authored commits with teammates |
-| 🦈 | **Pull Shark** | Opened and merged pull requests |
-| ⚡ | **Quickdraw** | Rapid issue and PR responses |
-| 🌟 | **Starstruck** | Repository earned stars from the community |
-| 🧊 | **Arctic Code Vault** | Contributed to the 2020 GitHub Archive Program |
-| 💻 | **YOLO** | Merged a PR without code review |
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
