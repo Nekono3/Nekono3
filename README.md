@@ -220,12 +220,12 @@ I'm a **17-year-old** software developer, AI engineer, and tech entrepreneur fro
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nekono3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nekono3&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6F00&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nekono3&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=c9d1d9&amp;count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nekono3&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=FF6F00&amp;currStreakLabel=38BDF8" alt="GitHub Streak" />
 
   <br/>
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekono3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekono3&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages" />
 
 </div>
 
