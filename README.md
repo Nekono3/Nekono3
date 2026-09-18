@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
   <a href="https://github.com/Nekono3">
-    <img src="https://raw.githubusercontent.com/Nekono3/Nekono3/main/assets/header.svg" alt="Belek - Full-Stack & AI Engineer" width="100%">
+    <img src="./assets/header.svg" alt="Belek - Full-Stack &amp; AI Engineer" width="100%">
   </a>
 
   <br/><br/>
