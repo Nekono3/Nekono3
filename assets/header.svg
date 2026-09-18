@@ -104,7 +104,7 @@
     <circle cx="8" cy="8" r="6" fill="#FF5F56" stroke="#E0443E" stroke-width="0.5"/>
     <circle cx="28" cy="8" r="6" fill="#FFBD2E" stroke="#DEA123" stroke-width="0.5"/>
     <circle cx="48" cy="8" r="6" fill="#27C93F" stroke="#1AAB29" stroke-width="0.5"/>
-    <text x="75" y="12" class="window-title">github.com/Nekono3 &bull; zsh &bull; Bishkek, Kyrgyzstan</text>
+    <text x="75" y="12" class="window-title">github.com/Nekono3 • zsh • Bishkek, Kyrgyzstan</text>
     
     <!-- Live Status Pill in Top Right -->
     <g transform="translate(930, -4)">
@@ -125,7 +125,7 @@
   </g>
 
   <!-- Main Hero Title -->
-  <text x="50" y="180" class="title">BELEK &bull; <tspan fill="url(#accentBlueGrad)">NEKONO3</tspan></text>
+  <text x="50" y="180" class="title">BELEK • <tspan fill="url(#accentBlueGrad)">NEKONO3</tspan></text>
 
   <!-- Subtitle / Mission -->
   <text x="50" y="222" class="subtitle">
