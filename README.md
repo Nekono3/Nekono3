@@ -1,23 +1,18 @@
 <div align="center">
 
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Belek%20Tazhibaev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Entrepreneur&descSize=16&descAlignY=55&descAlign=50" alt="Header" width="100%">
+  <h1>👋 Hi, I'm <span style="color: #38BDF8;">Belek Tazhibaev</span></h1>
+  <h3>🚀 Full-Stack Developer & AI Automation Engineer</h3>
 
-  <br/>
+  <p align="center">
+    <b>Building production systems, Computer Vision pipelines & AI-native products from Kyrgyzstan 🇰🇬</b>
+  </p>
 
-  <!-- Dynamic Typing Subtitle -->
-  <a href="https://github.com/Nekono3">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&lines=Full-Stack+Developer+%26+AI+Engineer;Computer+Vision+%26+OCR+Architect;Co-Founder+%40+Cosmic+Team+%F0%9F%9A%80;Building+Real+Products+from+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC;Engineering+with+Claude+Code+%26+Antigravity+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Social & Link Badges -->
-  <p>
-    <a href="https://t.me/Chromatic_s">
+  <!-- Social & Contact Badges (Fully Reliable & Responsive) -->
+  <p align="center">
+    <a href="https://t.me/Chromatic_s" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-@Chromatic__s-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://www.instagram.com/itz.bxmz/">
+    <a href="https://www.instagram.com/itz.bxmz/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-@itz.bxmz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:tazhibaev0909@gmail.com">
@@ -28,21 +23,18 @@
     </a>
   </p>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Nekono3&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
 
 ---
 
 ### 🧠 About Me
 
-I'm a **17-year-old** software developer, AI engineer, and tech entrepreneur from **Bishkek, Kyrgyzstan 🇰🇬** with a passion for building products that solve real-world problems.
+I am a **17-year-old** software developer, AI engineer, and tech entrepreneur from **Bishkek, Kyrgyzstan 🇰🇬** with hands-on experience in building production-ready architectures and end-to-end applications.
 
-- 🔭 **What I build:** Production Computer Vision pipelines, exam automation platforms, data analytics tools, video parsers, and scalable web applications.
-- 🤖 **AI-Native Workflow:** I leverage cutting-edge agentic tools — **Antigravity**, **Claude Code**, **Codex** — to prototype, build, and ship complex systems at maximum velocity.
-- 💼 **Entrepreneurship:** Co-founder at **Cosmic Team** (Restaurant POS Software) and core contributor to **AIM EDU** (AI-powered exam evaluation platform).
-- 🎓 **Mission:** Pursuing higher education in Computer Science while building tech infrastructure that creates tangible impact in Central Asia and beyond.
+- 🔭 **What I focus on:** Computer Vision pipelines, OCR automation, scalable backend platforms, and intelligent data systems.
+- 🤖 **AI-Native Engineering:** I build with next-gen agentic workflows (**Antigravity**, **Claude Code**, **Codex**) to rapidly prototype, architect, and ship high-impact software.
+- 💼 **Entrepreneurship:** Co-founder at **Cosmic Team** (Restaurant POS software) and core architect behind **AIM EDU** (automated examination grading ecosystem).
+- 🎯 **Mission:** Pursuing computer science excellence while building technological infrastructure that solves practical problems across Kyrgyzstan and beyond.
 
 ---
 
@@ -52,59 +44,59 @@ I'm a **17-year-old** software developer, AI engineer, and tech entrepreneur fro
 
 | Metric | Achievement | Impact Area |
 | :--- | :--- | :--- |
-| 📝 **20,000+** | Examination sheets evaluated | AI-powered OCR pipeline for AALAM school network |
-| 🏫 **6 Campuses** | Schools equipped with AIM EDU | Eliminated thousands of hours of manual grading |
-| 🎮 **3+ Projects** | Game & interactive applications shipped | Python, Pygame, Full-Stack Web |
-| 🚀 **Co-Founder** | Cosmic Team POS systems | Restaurant software & ESC/POS hardware deployment |
-| ⏱️ **3+ Years** | Continuous programming experience | Python, CV, Web Systems, AI Automation |
+| 📝 **20,000+** | Examination sheets processed | AI-powered OCR pipeline with homography snapping |
+| 🏫 **6 Campuses** | AALAM educational network | Replaced manual grading with real-time analytics |
+| 🚀 **Co-Founder** | Cosmic Team restaurant POS | Production point-of-sale software & hardware integration |
+| 🎮 **Multiple Apps** | Production & standalone software | Python, Pygame, Web systems, AI tooling |
+| ⏱️ **3+ Years** | Engineering experience | Full-stack development, Python, Computer Vision |
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Toolkit
 
 <div align="center">
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <b>Languages</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <b>Frameworks & Web</b><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white" alt="Pygame" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- AI & Data -->
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <b>AI, Computer Vision & Data</b><br/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Tools & Infra -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <b>DevOps, Environment & Tools</b><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- AI Tools -->
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+  <b>AI-Accelerated Engineering</b><br/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
 
 </div>
 
@@ -114,100 +106,100 @@ I'm a **17-year-old** software developer, AI engineer, and tech entrepreneur fro
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎯 AIM EDU — Exam OCR System</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" />
       </p>
-      <p align="center">
-        AI-powered examination evaluation platform. Processes <b>20,000+ exam sheets</b> across 6 campuses with homography-based CV pipeline, subpixel snapping, and real-time grade analytics.
+      <p>
+        AI-powered examination grading platform. Automatically processes <b>20,000+ answer sheets</b> with high-precision homography alignment, bubble detection, and instant statistical analysis for educators.
       </p>
       <p align="center">
         <a href="https://github.com/Nekono3/AIM_EDU">
-          <img src="https://img.shields.io/badge/View_Repo-2C5364?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📊 Data Analytics Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white" />
       </p>
-      <p align="center">
-        Comprehensive data analysis and visualization toolkit for processing, cleaning, and visualizing large datasets with interactive dashboards and automated report generation.
+      <p>
+        End-to-end data pipeline and visualization suite designed to ingest, clean, and extract actionable insights from large datasets with automated reporting.
       </p>
       <p align="center">
         <a href="https://github.com/Nekono3/Data_Analytics_">
-          <img src="https://img.shields.io/badge/View_Repo-2C5364?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎮 Tadashi — Game Engine</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <p align="center">
-        Interactive game built with Pygame featuring physics-based mechanics, sprite animation, and real-time rendering. Demonstrates strong OOP design patterns and game loop architecture.
+      <p>
+        Interactive arcade adventure game developed with Pygame. Implements dynamic frame updates, collision mathematics, custom sprite animations, and scalable state machines.
       </p>
       <p align="center">
         <a href="https://github.com/Nekono3/Tadashi">
-          <img src="https://img.shields.io/badge/View_Repo-2C5364?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📹 Save Video Parser</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=selenium&logoColor=white" />
       </p>
-      <p align="center">
-        Automated video content parser and downloader with intelligent format detection, batch processing, and metadata extraction. Streamlines content acquisition workflows.
+      <p>
+        High-throughput video scraper and content parser supporting automated format conversions, metadata fetching, and seamless batch downloads.
       </p>
       <p align="center">
         <a href="https://github.com/Nekono3/Save_Video_parser">
-          <img src="https://img.shields.io/badge/View_Repo-2C5364?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Belek Portfolio</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Personal Portfolio</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <p align="center">
-        Personal portfolio website showcasing projects, skills, and professional journey. Built with modern web technologies, responsive design, and smooth animations.
+      <p>
+        Modern, responsive portfolio website presenting my tech journey, architecture designs, live project demonstrations, and contact avenues.
       </p>
       <p align="center">
         <a href="https://github.com/Nekono3/Belek_Portfolio">
-          <img src="https://img.shields.io/badge/View_Repo-2C5364?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">👁️ VisualNote</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Vision-FF6F00?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <p align="center">
-        Intelligent note-taking application powered by visual recognition and AI. Converts handwritten notes and diagrams into structured digital formats with search capabilities.
+      <p>
+        Smart visual document and note analysis application. Converts analog diagrams and handwritten notes into digitized, searchable Markdown documents.
       </p>
       <p align="center">
         <a href="https://github.com/Nekono3/VisualNote">
-          <img src="https://img.shields.io/badge/View_Repo-2C5364?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -216,54 +208,25 @@ I'm a **17-year-old** software developer, AI engineer, and tech entrepreneur fro
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nekono3&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=c9d1d9&amp;count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nekono3&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=FF6F00&amp;currStreakLabel=38BDF8" alt="GitHub Streak" />
-
-  <br/>
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekono3&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages" />
-
-</div>
-
-
-
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nekono3/Nekono3/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekono3/Nekono3/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Nekono3/Nekono3/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-### 📬 Let's Connect
+### 📬 Get In Touch
 
 <div align="center">
   <p>
-    I'm always open to collaborating on interesting projects and innovative ideas.<br/>
-    Feel free to reach out through any of the channels above!
+    Have an interesting project, collaboration opportunity, or just want to talk tech?<br/>
+    I'm always excited to connect!
   </p>
 
-  <a href="https://t.me/Chromatic_s">
-    <img src="https://img.shields.io/badge/Let's_Talk-Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:tazhibaev0909@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
+  <p>
+    <a href="https://t.me/Chromatic_s" target="_blank">
+      <img src="https://img.shields.io/badge/Chat_on-Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    &nbsp;
+    <a href="mailto:tazhibaev0909@gmail.com">
+      <img src="https://img.shields.io/badge/Direct-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/itz.bxmz/" target="_blank">
+      <img src="https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 </div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
