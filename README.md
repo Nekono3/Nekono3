@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="./assets/header.svg" alt="Belek Tazhibaev" width="100%">
+  <img src="./assets/header.gif" alt="Belek Tazhibaev" width="100%">
 
   <br/><br/>
 
