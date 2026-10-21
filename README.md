@@ -54,7 +54,7 @@ I'm **Belek (Blake)** &mdash; a 17-year-old software systems engineer, computer 
 - **[GestureBoard (VisualNote)](https://github.com/Nekono3/VisualNote)** &mdash; Spatial gesture-controlled infinite whiteboard workspace. Tracks 21 3D hand landmarks in real-time via MediaPipe with subpixel jitter smoothing and 60 FPS decoupled Canvas rendering.  
   `JavaScript` &bull; `MediaPipe Hands` &bull; `Computer Vision` &bull; `HTML5 Canvas 60FPS` &bull; `Spatial Vectors`
 
-- **[MOUSet (mousely)](https://github.com/Nekono3/mousely)** &mdash; Clean-room zero-install presentation remote and multi-touch trackpad. Turns any iOS/Android smartphone into an ultra-low latency desktop clicker, trackpad, and voice dictation controller over local WebSockets.  
+- **[MOUSet (mousely)](https://github.com/Nekono3/MOUSet)** &mdash; Clean-room zero-install presentation remote and multi-touch trackpad. Turns any iOS/Android smartphone into an ultra-low latency desktop clicker, trackpad, and voice dictation controller over local WebSockets.  
   `Node.js` &bull; `WebSockets (RFC 6455)` &bull; `Cross-Platform (Linux/macOS/Win)` &bull; `Zero-Install PWA`
 
 - **[AIM EDU](https://github.com/Nekono3/AIM_EDU)** &mdash; Automated optical exam scoring and multi-campus academic analytics engine for 6 AALAM network schools. Streamlines machine-readable bubble sheet grading, student identification, and cohort difficulty matrices.  
