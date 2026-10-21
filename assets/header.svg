@@ -2,29 +2,34 @@
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#06080D"/>
-      <stop offset="50%" stop-color="#0B101B"/>
-      <stop offset="100%" stop-color="#070A10"/>
+      <stop offset="0%" stop-color="#07090E"/>
+      <stop offset="60%" stop-color="#0D131F"/>
+      <stop offset="100%" stop-color="#080C14"/>
     </linearGradient>
 
-    <!-- Dynamic Radial Glow -->
+    <!-- Subtle Radial Glow -->
     <radialGradient id="softGlow" cx="25%" cy="35%" r="60%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.2"/>
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="softPurple" cx="80%" cy="65%" r="50%">
-      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.15"/>
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.12"/>
       <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Animated Border Gradient -->
+    <!-- Border Gradient -->
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.6"/>
-      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.6"/>
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.25"/>
     </linearGradient>
 
     <!-- Text Gradients -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#94A3B8"/>
+    </linearGradient>
     <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38BDF8"/>
       <stop offset="100%" stop-color="#818CF8"/>
@@ -32,37 +37,12 @@
   </defs>
 
   <style>
-    @keyframes pulse-ring {
-      0% { r: 3.5px; opacity: 0.9; }
-      50% { r: 9px; opacity: 0; }
-      100% { r: 3.5px; opacity: 0; }
-    }
-    @keyframes pulse-dot {
-      0%, 100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.7; transform: scale(0.9); }
-    }
-    @keyframes beam-travel {
-      0% { x1: 20; x2: 120; opacity: 0; }
-      10% { opacity: 1; }
-      90% { opacity: 1; }
-      100% { x1: 1080; x2: 1180; opacity: 0; }
-    }
-    @keyframes float-grid {
-      0%, 100% { opacity: 0.15; }
-      50% { opacity: 0.35; }
-    }
-    @keyframes text-shimmer {
-      0% { stop-color: #38BDF8; }
-      50% { stop-color: #A78BFA; }
-      100% { stop-color: #38BDF8; }
-    }
-
     .name {
       font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif;
       font-weight: 800;
-      font-size: 52px;
+      font-size: 50px;
       letter-spacing: -1.2px;
-      fill: #FFFFFF;
+      fill: url(#nameGrad);
     }
     .role {
       font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
@@ -75,7 +55,7 @@
       font-family: "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
       font-size: 11px;
       font-weight: 600;
-      letter-spacing: 1.8px;
+      letter-spacing: 1.5px;
       fill: #38BDF8;
     }
     .meta {
@@ -87,21 +67,9 @@
     .status {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       font-size: 11px;
-      font-weight: 600;
+      font-weight: 500;
       fill: #A7F3D0;
-      letter-spacing: 0.6px;
-    }
-    .beam {
-      animation: beam-travel 4s cubic-bezier(0.4, 0, 0.2, 1) infinite;
-    }
-    .ping {
-      animation: pulse-ring 2s cubic-bezier(0, 0, 0.2, 1) infinite;
-    }
-    .dot {
-      animation: pulse-dot 2s ease-in-out infinite;
-    }
-    .grid-node {
-      animation: float-grid 3s ease-in-out infinite;
+      letter-spacing: 0.5px;
     }
   </style>
 
@@ -109,48 +77,30 @@
   <rect x="10" y="10" width="1180" height="220" rx="16" fill="url(#bgGrad)"/>
   <rect x="10" y="10" width="1180" height="220" rx="16" fill="url(#softGlow)"/>
   <rect x="10" y="10" width="1180" height="220" rx="16" fill="url(#softPurple)"/>
-  <rect x="10" y="10" width="1180" height="220" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="1.2"/>
+  <rect x="10" y="10" width="1180" height="220" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="1"/>
 
-  <!-- Background Animated Neural / Constellation Points -->
-  <g class="grid-node" fill="#38BDF8">
-    <circle cx="850" cy="50" r="1.5" opacity="0.3"/>
-    <circle cx="920" cy="90" r="2" opacity="0.4"/>
-    <circle cx="1020" cy="65" r="1.5" opacity="0.2"/>
-    <circle cx="1110" cy="110" r="2.5" opacity="0.5"/>
-    <circle cx="970" cy="150" r="1.5" opacity="0.3"/>
-    <circle cx="890" cy="180" r="2" opacity="0.4"/>
-    <line x1="850" y1="50" x2="920" y2="90" stroke="#38BDF8" stroke-width="0.5" stroke-opacity="0.2"/>
-    <line x1="920" y1="90" x2="1020" y2="65" stroke="#38BDF8" stroke-width="0.5" stroke-opacity="0.2"/>
-    <line x1="1020" y1="65" x2="1110" y2="110" stroke="#38BDF8" stroke-width="0.5" stroke-opacity="0.2"/>
-    <line x1="920" y1="90" x2="970" y2="150" stroke="#38BDF8" stroke-width="0.5" stroke-opacity="0.2"/>
-    <line x1="970" y1="150" x2="890" y2="180" stroke="#38BDF8" stroke-width="0.5" stroke-opacity="0.2"/>
-  </g>
-
-  <!-- Glowing Top Laser Accent Beam -->
-  <line class="beam" y1="10" y2="10" stroke="url(#blueGrad)" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Subtle Top Accent Line -->
+  <line x1="50" y1="10" x2="250" y2="10" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
 
   <!-- Content Group -->
   <g transform="translate(60, 48)">
     <!-- Category Pill -->
-    <text x="0" y="10" class="tag">SOFTWARE SYSTEMS • COMPUTER VISION • AI ARCHITECTURE</text>
+    <text x="0" y="10" class="tag">SOFTWARE ENGINEER • AI &amp; CV</text>
 
     <!-- Main Name Title -->
     <text x="0" y="65" class="name">Belek <tspan fill="url(#blueGrad)">Tazhibaev</tspan></text>
 
     <!-- Clean Role Subtitle -->
-    <text x="0" y="105" class="role">Building real-time CV pipelines, low-latency protocols, and full-stack SaaS • Bishkek, KG 🇰🇬</text>
+    <text x="0" y="105" class="role">Building Computer Vision pipelines, AI agents, and production software • Bishkek, KG 🇰🇬</text>
 
     <!-- Meta / Credentials Line -->
-    <text x="0" y="145" class="meta">CO-FOUNDER @ COSMIC TEAM • CORE ARCHITECT @ AIM EDU (20K+ EVALUATED)</text>
+    <text x="0" y="145" class="meta">CO-FOUNDER @ COSMIC TEAM • CORE DEV @ AIM EDU (20K+ EXAMS EVALUATED)</text>
   </g>
 
-  <!-- Right-aligned Live Pulsing Status Pill -->
+  <!-- Right-aligned Minimal Status Pill -->
   <g transform="translate(970, 42)">
-    <rect x="0" y="0" width="168" height="30" rx="15" fill="#064E3B" fill-opacity="0.35" stroke="#059669" stroke-opacity="0.5" stroke-width="1"/>
-    <!-- Expanding Pulse Wave -->
-    <circle cx="16" cy="15" class="ping" fill="#34D399"/>
-    <!-- Solid Center Core -->
-    <circle cx="16" cy="15" r="4" class="dot" fill="#34D399"/>
-    <text x="30" y="19.5" class="status">AVAILABLE FOR WORK</text>
+    <rect x="0" y="0" width="165" height="28" rx="14" fill="#064E3B" fill-opacity="0.3" stroke="#059669" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="15" cy="14" r="3.5" fill="#34D399"/>
+    <text x="26" y="18" class="status">AVAILABLE FOR WORK</text>
   </g>
 </svg>
